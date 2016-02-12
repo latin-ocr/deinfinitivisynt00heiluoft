@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinfinitivisynt00heiluoft_0004.png"; bbox 0 0 2086 3413; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1880 0 2086 1476">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1880 0 2086 1476">
+     <span class='ocr_line' id='line_1_1' title="bbox 1880 0 2086 1476; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1880 0 2086 1476; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 994 1809 1222 2076">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 993 1809 1222 2076">
+     <span class='ocr_line' id='line_1_2' title="bbox 1012 1809 1120 1889; baseline 0.028 -3"><span class='ocrx_word' id='word_1_2' title='bbox 1012 1809 1120 1889; x_wconf 59' lang='lat' dir='ltr'><em>W</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 994 1917 1194 1990; baseline 0.035 -10"><span class='ocrx_word' id='word_1_3' title='bbox 994 1917 1194 1990; x_wconf 51' lang='lat'>4007</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1006 2010 1222 2076; baseline 0.004 -0.943"><span class='ocrx_word' id='word_1_4' title='bbox 1006 2016 1043 2056; x_wconf 96' lang='grc'><em>7</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1062 2013 1115 2076; x_wconf 64' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1117 2010 1222 2076; x_wconf 61' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 741 2495 1469 2881">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 741 2495 1469 2881">
+     <span class='ocr_line' id='line_1_5' title="bbox 741 2495 1469 2881; baseline 0.015 -157"><span class='ocrx_word' id='word_1_7' title='bbox 741 2495 958 2881; x_wconf 51' lang='grc' dir='ltr'>Π</span> <span class='ocrx_word' id='word_1_8' title='bbox 945 2531 958 2629; x_wconf 79' lang='lat'><em>¹</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 983 2532 1342 2736; x_wconf 54' lang='lat' dir='ltr'><em>w</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1457 2499 1469 2874; x_wconf 61' lang='lat' dir='ltr'><em>J</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 756 2804 1413 2874; baseline -0.009 -19"><span class='ocrx_word' id='word_1_11' title='bbox 756 2871 759 2874; x_wconf 88' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 799 2806 1072 2856; x_wconf 67' lang='lat' dir='ltr'>UNWERSHY</span> <span class='ocrx_word' id='word_1_13' title='bbox 1109 2808 1165 2855; x_wconf 75' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_14' title='bbox 1198 2804 1413 2852; x_wconf 79' lang='lat' dir='ltr'>TORONTO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
